@@ -13,8 +13,6 @@ Project("{C9D312AC-C84B-5698-F511-27EB08A66819}") = "RiftRave", "Assembly-UnityS
 EndProject
 Project("{C9D312AC-C84B-5698-F511-27EB08A66819}") = "RiftRave", "Assembly-UnityScript.unityproj", "{54979651-F23E-2588-F7DF-715286CD1DD4}"
 EndProject
-Project("{C9D312AC-C84B-5698-F511-27EB08A66819}") = "RiftRave", "Assembly-UnityScript-Editor.unityproj", "{A296FB77-0E2A-D5C5-F3B8-8B91D3AB2145}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,15 +43,11 @@ Global
 		{54979651-F23E-2588-F7DF-715286CD1DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54979651-F23E-2588-F7DF-715286CD1DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54979651-F23E-2588-F7DF-715286CD1DD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A296FB77-0E2A-D5C5-F3B8-8B91D3AB2145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A296FB77-0E2A-D5C5-F3B8-8B91D3AB2145}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A296FB77-0E2A-D5C5-F3B8-8B91D3AB2145}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A296FB77-0E2A-D5C5-F3B8-8B91D3AB2145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																						GlobalSection(MonoDevelopProperties) = preSolution
+																																																																GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
